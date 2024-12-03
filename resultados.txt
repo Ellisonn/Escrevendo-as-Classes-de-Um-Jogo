@@ -1,0 +1,4 @@
+O guerreiro atacou usando usou espada.
+O mago atacou usando usou magia.
+O monge atacou usando usou artes marciais.
+O ninja atacou usando usou shuriken.
